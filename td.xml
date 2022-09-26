@@ -1,0 +1,66 @@
+<?xml version ="1.0" encoding="iso-8859-1" ?>
+<projects>
+    <project type="OOP">
+        <libraries>
+            <library> Unuseful tests
+                <version> JUNIT 4.13.2 </version>
+                <description> Library intended to never be used again bc it's been coded by an asshole so it doesnt work at all</description>
+            </library>
+            <library> Useful tests
+                <version> JUNIT 4.5.9 </version>
+                <description> Coded by a genius (me), perfectly  useful and practical tests </description>
+            </library>
+        </libraries>
+        <name> Tests </name>
+        <servers>
+            <sd:server xmlns:sd="http://www.server.en/EnDetestedServer"> 
+                <sd:name>detested server </sd:name>
+            </sd:server>
+            <sl:server xmlns:sl="http://www.server.en/EnLovedServer"> 
+                <sl:name>loved server </sl:name>
+            </sl:server>
+        </servers>
+    </project>
+    <project type="OOC">
+        <libraries>
+            <library> Dumb Fucked UML
+                <version> UML 1.6 </version>
+                <description> Fucking class diagram</description>
+            </library>
+            <library> God-tier UML
+                <version>UML 2.5.4</version>
+                <description> God-tier UML diagrams, written by me (oc)</description>
+            </library>
+        </libraries>
+        <name> UML</name>
+        <servers>
+            <su:server xmlns:su="http://www.server.en/EnUselessServer"> 
+                <su:name>useless server </su:name>
+            </su:server>
+            <sf:server xmlns:sf="http://www.server.en/EnFuckedServer"> 
+                <sf:name>fucked up server </sf:name>
+            </sf:server>
+        </servers>
+    </project>
+    <project type="OOL">
+        <libraries>
+            <library> Slow Ass Production
+                <version> 21.3.0 JDBC, </version>
+                <description> The production is so goddamn slow that a slow ass snail could go faster</description>
+            </library>
+            <library> Fast Ass Production
+                <version> 21.3.1 JDBC</version>
+                <description> This production is fast as fuck boy I swear to god it'll beat yo production any day son</description>
+            </library>
+        </libraries>
+        <name> Production </name>
+        <servers>
+            <ssl:server xmlns:ssl="http://www.server.en/EnSlowAssServer"> 
+                <ssl:name>slow ass server </ssl:name>
+            </ssl:server>
+            <sfa:server xmlns:sfa="http://www.server.en/EnFastAssServer"> 
+                <sfa:name>fast ass server </sfa:name>
+            </sfa:server>
+        </servers>
+    </project>
+</projects>
