@@ -62,6 +62,7 @@
                 <sfa:name>fast ass server </sfa:name>
             </sfa:server>
         </servers>
+<<<<<<< HEAD
         <servers>
             <ssl:server xmlns:ssl="http:www.server.en/EnSlowAssServer"> 
                 <ssl:name>slow ass server </ssl:name>
@@ -71,5 +72,11 @@
                 sfa:name>
             </sfa:server>
         </servers>
+<<<<<<< HEAD
+=======
+        *efibereiueruivaerbnaziefbueirzzhfioazerugigze&iféegufhioszvgfhjbnghyuebjfgzeryofcbjazeriyfvzejuvfgfuyqsehbfvyueubsdc
+=======
+>>>>>>> parent of b05173c... deuxieme commit pkein d'erreurs
+>>>>>>> lagrossebranchedeTIM
     </project>
 </projects>
