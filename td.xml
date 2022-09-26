@@ -62,5 +62,14 @@
                 <sfa:name>fast ass server </sfa:name>
             </sfa:server>
         </servers>
+        <servers>
+            <ssl:server xmlns:ssl="http:www.server.en/EnSlowAssServer"> 
+                <ssl:name>slow ass server </ssl:name>
+            </ssl:server>
+            <sfa:server xmlns:sfa="http://www.server.en/EnFastAssServer"> 
+                <sfa:name>fast ass server </
+                sfa:name>
+            </sfa:server>
+        </servers>
     </project>
 </projects>
